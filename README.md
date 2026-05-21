@@ -12,11 +12,19 @@ AI | Machine Learning | Data Science | Bioinformatics | Python | Healthcare AI |
 ![Jupyter](https://img.shields.io/badge/-JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=stutisingh06&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
+## 🔥 Streak Stats
+![](https://nirzak-streak-stats.vercel.app/?user=stutisingh06&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💻 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stutisingh06&theme=tokyonight&hide_border=false&layout=compact)
+
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=stutisingh06&theme=tokyo-night)
+
+## 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=stutisingh06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=stutisingh06&icon=0&color=0)](https://visitcount.itsvg.in)
 
