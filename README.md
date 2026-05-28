@@ -11,6 +11,7 @@ AI | Machine Learning | Data Science | Bioinformatics | Python | Healthcare AI |
 ![BioPython](https://img.shields.io/badge/-BIOPYTHON-8BC34A?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stutisingh06&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
