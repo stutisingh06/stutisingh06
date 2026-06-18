@@ -12,6 +12,13 @@ AI | Machine Learning | Data Science | Bioinformatics | Python | Healthcare AI |
 ![Jupyter](https://img.shields.io/badge/-JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Joblib](https://img.shields.io/badge/Joblib-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=for-the-badge&logo=python&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stutisingh06&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
